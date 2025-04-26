@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-26T12:39:35 IST" name="Suite" finished-at="2025-04-26T12:40:10 IST" duration-ms="35807">
+    <groups>
+    </groups>
+    <test started-at="2025-04-26T12:39:35 IST" name="Test3" finished-at="2025-04-26T12:40:02 IST" duration-ms="27026">
+      <class name="parallelTesting_26April.Search">
+        <test-method is-config="true" signature="launch(java.lang.String)[pri:0, instance:parallelTesting_26April.Search@6986852]" started-at="2025-04-26T12:39:50 IST" name="launch" finished-at="2025-04-26T12:39:53 IST" duration-ms="2989" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="launch()[pri:0, instance:parallelTesting_26April.Search@6986852]" started-at="2025-04-26T12:39:53 IST" name="launch" finished-at="2025-04-26T12:40:02 IST" duration-ms="8278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:parallelTesting_26April.Search@6986852]" started-at="2025-04-26T12:40:02 IST" name="quit" finished-at="2025-04-26T12:40:02 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- parallelTesting_26April.Search -->
+      <class name="parallelTesting_26April.LaunchWebsite">
+        <test-method is-config="true" signature="launch(java.lang.String)[pri:0, instance:parallelTesting_26April.LaunchWebsite@1acaf3d]" started-at="2025-04-26T12:39:35 IST" name="launch" finished-at="2025-04-26T12:39:40 IST" duration-ms="5122" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="launch()[pri:0, instance:parallelTesting_26April.LaunchWebsite@1acaf3d]" started-at="2025-04-26T12:39:40 IST" name="launch" finished-at="2025-04-26T12:39:44 IST" duration-ms="4114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:parallelTesting_26April.LaunchWebsite@1acaf3d]" started-at="2025-04-26T12:39:44 IST" name="quit" finished-at="2025-04-26T12:39:50 IST" duration-ms="6428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- parallelTesting_26April.LaunchWebsite -->
+    </test> <!-- Test3 -->
+    <test started-at="2025-04-26T12:39:35 IST" name="Test" finished-at="2025-04-26T12:40:04 IST" duration-ms="29571">
+      <class name="parallelTesting_26April.Search">
+        <test-method is-config="true" signature="launch(java.lang.String)[pri:0, instance:parallelTesting_26April.Search@352ff4da]" started-at="2025-04-26T12:39:54 IST" name="launch" finished-at="2025-04-26T12:39:58 IST" duration-ms="3700" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="launch()[pri:0, instance:parallelTesting_26April.Search@352ff4da]" started-at="2025-04-26T12:39:58 IST" name="launch" finished-at="2025-04-26T12:40:04 IST" duration-ms="6419" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:parallelTesting_26April.Search@352ff4da]" started-at="2025-04-26T12:40:04 IST" name="quit" finished-at="2025-04-26T12:40:04 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- parallelTesting_26April.Search -->
+      <class name="parallelTesting_26April.LaunchWebsite">
+        <test-method is-config="true" signature="launch(java.lang.String)[pri:0, instance:parallelTesting_26April.LaunchWebsite@3b5fad2d]" started-at="2025-04-26T12:39:35 IST" name="launch" finished-at="2025-04-26T12:39:40 IST" duration-ms="5125" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="launch()[pri:0, instance:parallelTesting_26April.LaunchWebsite@3b5fad2d]" started-at="2025-04-26T12:39:40 IST" name="launch" finished-at="2025-04-26T12:39:44 IST" duration-ms="4640" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:parallelTesting_26April.LaunchWebsite@3b5fad2d]" started-at="2025-04-26T12:39:44 IST" name="quit" finished-at="2025-04-26T12:39:54 IST" duration-ms="9613" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- parallelTesting_26April.LaunchWebsite -->
+    </test> <!-- Test -->
+    <test started-at="2025-04-26T12:39:35 IST" name="Test2" finished-at="2025-04-26T12:40:10 IST" duration-ms="35807">
+      <class name="parallelTesting_26April.Search">
+        <test-method is-config="true" signature="launch(java.lang.String)[pri:0, instance:parallelTesting_26April.Search@404bbcbd]" started-at="2025-04-26T12:40:01 IST" name="launch" finished-at="2025-04-26T12:40:06 IST" duration-ms="4670" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="launch()[pri:0, instance:parallelTesting_26April.Search@404bbcbd]" started-at="2025-04-26T12:40:06 IST" name="launch" finished-at="2025-04-26T12:40:10 IST" duration-ms="4534" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:parallelTesting_26April.Search@404bbcbd]" started-at="2025-04-26T12:40:10 IST" name="quit" finished-at="2025-04-26T12:40:10 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- parallelTesting_26April.Search -->
+      <class name="parallelTesting_26April.LaunchWebsite">
+        <test-method is-config="true" signature="launch(java.lang.String)[pri:0, instance:parallelTesting_26April.LaunchWebsite@379614be]" started-at="2025-04-26T12:39:35 IST" name="launch" finished-at="2025-04-26T12:39:48 IST" duration-ms="13800" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="launch()[pri:0, instance:parallelTesting_26April.LaunchWebsite@379614be]" started-at="2025-04-26T12:39:48 IST" name="launch" finished-at="2025-04-26T12:39:52 IST" duration-ms="3088" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:parallelTesting_26April.LaunchWebsite@379614be]" started-at="2025-04-26T12:39:52 IST" name="quit" finished-at="2025-04-26T12:40:01 IST" duration-ms="9630" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- parallelTesting_26April.LaunchWebsite -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>
