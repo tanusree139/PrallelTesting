@@ -10,7 +10,7 @@
     </classes>
   </test> <!-- Test -->
   
-  <test thread-count="5" parallel="tests" name="Test2">
+  <test thread-count="5" parallel="tests" name="Test4">
   
   <parameter name="browser" value="firefox"></parameter>
     <classes>
